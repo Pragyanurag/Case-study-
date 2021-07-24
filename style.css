@@ -1,0 +1,57 @@
+.header_div
+{
+    background: violet;
+    color: #ce2700;
+}
+.header_div img{
+    width:100px;
+}
+.main_div
+{
+  background:#ffd2c7;
+  padding:10px;
+  margin-top:15px;
+  border:3px solid white;
+}
+.main_div label
+{
+  background:white;
+  width:310px;
+  padding:10px;
+  margin-bottom:0px;
+  box-shadow:5px 5px 18px white;
+}
+#camera,#result
+{
+    border:3px solid white;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px white;
+}
+.main_div button{
+    width:300px;
+    font-size:16px;
+    box-shadow:5px 5px 18px white;
+    border:3px solid;
+}
+.footer_div{
+  margin-bottom: 60px;
+}
+.footer_div img{
+  width:70px;
+}
+.footer_div h4{
+  background: greenyellow;
+  box-shadow:5px 5px 50px green;
+  padding: 5px;
+  border-radius: 10px;
+}
+.copy_right_footer{
+  position: fixed;
+  color:black;
+  bottom:0;
+  width:100%;
+  background-color:lightblue;
+  text-align:center;
+  line-height:3;
+}
